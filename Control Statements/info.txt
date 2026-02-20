@@ -1,0 +1,11 @@
+conidition - float run, other not run
+
+control statement
+coniditional - if, elif, else
+for while else suit
+nested
+infinite loop
+pass
+continue
+break
+assert return

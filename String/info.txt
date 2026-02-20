@@ -1,0 +1,10 @@
+" this is string"
+' this is also string'
+
+''' this is also string '''
+
+3 characteristics
+
+1. immutable
+2. indexed
+3. iterable
