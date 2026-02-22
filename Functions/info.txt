@@ -5,3 +5,6 @@ function - Perform task after that call a function
 
 parameters - placeholders for the values
 arguments - actual values that to be passed
+function - naming
+local - global functions
+length of functions
