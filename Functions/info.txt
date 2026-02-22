@@ -1,1 +1,7 @@
 function - Perform task after that call a function
+1. reusability
+2. modularity
+3. scoping
+
+parameters - placeholders for the values
+arguments - actual values that to be passed

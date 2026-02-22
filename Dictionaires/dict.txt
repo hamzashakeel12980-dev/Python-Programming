@@ -1,0 +1,25 @@
+python dictionaries
+1. definition & characteristics
+    key-value pairs
+        unordered (before python 3.7)
+        mutable
+2. creation
+    using {} braces
+    using dict{} constructor
+3. operations
+    adding items
+    updating items
+    deleting items
+4. dictionary methods
+    get(), keys(), values(), items()
+    pop(), popitem(), clear()
+5. comprehension
+    dictionaries comprehension
+6. nested dictionaries
+7. common use cases
+
+Most Important
+1. key-value = pair, comma
+2. unordered 4,7, ordered
+3. mutable
+4. dynamic
