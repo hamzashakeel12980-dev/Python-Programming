@@ -1,0 +1,12 @@
+a class is a blueprint or template for objects
+
+map - class
+house - object
+
+object are the actual instance of a class
+
+class = car blueprint
+object = actual car
+
+------------------------------
+self is a special keyword use in class to refer to a object

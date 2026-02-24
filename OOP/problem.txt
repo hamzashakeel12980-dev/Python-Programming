@@ -1,0 +1,30 @@
+1. code duplication
+2. code maintain
+3. data security issues
+4. poor code reusabiltiy
+5. no real world representation
+
+design game
+car is not a function it is object oriented programming, it includes properties.
+
+Object include two things
+1. Attributes
+    properties
+2. Behaviour
+    Actions
+
+car
+1. color
+    red
+2. run
+    brake stop car
+
+Object oriented programming
+
+Object
+1. Data 
+Attributes
+properties
+2. Function
+methods
+Behaviour

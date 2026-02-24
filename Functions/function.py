@@ -1,5 +1,5 @@
-def function():
+def function(name):
     {
-    print("Hello World")
+    print("Hello," + name)
 }
-function()
+function("Hamza")

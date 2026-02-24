@@ -1,0 +1,5 @@
+1. classes & objects
+2. inheritance
+3. encapsulation
+4. abstraction
+5. polymorphism
